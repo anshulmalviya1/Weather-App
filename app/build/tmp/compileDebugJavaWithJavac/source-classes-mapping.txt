@@ -1,0 +1,2 @@
+com/WeatherAppAnshul/BuildConfig.java
+ com.WeatherAppAnshul.BuildConfig
